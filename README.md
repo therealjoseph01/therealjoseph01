@@ -1,4 +1,9 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hello there 👋</h1>
+
+<h3 align="center">
+  I build apps fast enough to impress clients<br>
+  and bugs fast enough to humble myself.
+</h3>
 
 ###
 
@@ -20,6 +25,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="60" alt="ruby logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
+
+###
+
+<div align="center">
+
+💻 Writes TypeScript like it’s a love language  
+⚡ Can fix a bug in 5 minutes after struggling for 4 hours  
+🧠 `git push --force` survivor  
+🔥 “It worked yesterday” specialist  
+📦 Has 47 Chrome tabs open for “important research”
+
 </div>
 
 ###
