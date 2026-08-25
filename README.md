@@ -1,4 +1,8 @@
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="therealjoseph01's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 <h3 align="center">
   I build apps fast enough to impress clients<br>
