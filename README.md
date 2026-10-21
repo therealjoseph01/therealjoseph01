@@ -21,8 +21,11 @@
 </div>
 
 <div align="center">
-  <img src="https://josephwilliams.website/api/languages-card?v=2" alt="Most used languages, across public and private repos" />
-  <img src="https://josephwilliams.website/api/frameworks-card?v=2" alt="Most used frameworks, detected from repo manifests" />
+  <img src="https://josephwilliams.website/api/languages-card?v=3" width="860" alt="Most used languages, across public and private repos" />
+</div>
+
+<div align="center">
+  <img src="https://josephwilliams.website/api/frameworks-card?v=3" width="860" alt="Most used frameworks, detected from repo manifests" />
 </div>
 
 ###
