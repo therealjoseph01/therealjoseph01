@@ -12,20 +12,20 @@
 ###
 
 <div align="center">
-  <img src="https://josephwilliams.website/api/streaks-card?v=2" alt="Streaks: total contributions, current streak, longest streak" />
+  <img src="https://josephwilliams.website/api/streaks-card?v=3" alt="Streaks: total contributions, current streak, longest streak" />
 </div>
 
 <div align="center">
-  <img src="https://josephwilliams.website/api/stats-card?v=2" height="220" alt="Stats: contributions, days coded, best day, repos, followers, stars" />
-  <img src="https://josephwilliams.website/api/habits-card?v=2" height="220" alt="Coding habits: average contributions by weekday" />
+  <img src="https://josephwilliams.website/api/stats-card?v=3" height="220" alt="Stats: contributions, days coded, best day, repos, followers, stars" />
+  <img src="https://josephwilliams.website/api/habits-card?v=3" height="220" alt="Coding habits: average contributions by weekday" />
 </div>
 
 <div align="center">
-  <img src="https://josephwilliams.website/api/languages-card?v=3" width="860" alt="Most used languages, across public and private repos" />
+  <img src="https://josephwilliams.website/api/languages-card?v=4" width="860" alt="Most used languages, across public and private repos" />
 </div>
 
 <div align="center">
-  <img src="https://josephwilliams.website/api/frameworks-card?v=3" width="860" alt="Most used frameworks, detected from repo manifests" />
+  <img src="https://josephwilliams.website/api/frameworks-card?v=4" width="860" alt="Most used frameworks, detected from repo manifests" />
 </div>
 
 ###
