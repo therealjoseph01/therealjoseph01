@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=therealjoseph01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://josephwilliams.website/api/languages-card" height="150" alt="Most used languages, across public and private repos, served from my own site" />
   <img src="https://streak-stats.demolab.com?user=therealjoseph01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=therealjoseph01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=therealjoseph01&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
