@@ -12,12 +12,12 @@
 ###
 
 <div align="center">
-  <img src="https://josephwilliams.website/api/streaks-card?v=3" alt="Streaks: total contributions, current streak, longest streak" />
+  <img src="https://josephwilliams.website/api/streaks-card?v=4" alt="Streaks: total contributions, current streak, longest streak" />
 </div>
 
 <div align="center">
-  <img src="https://josephwilliams.website/api/stats-card?v=3" height="220" alt="Stats: contributions, days coded, best day, repos, followers, stars" />
-  <img src="https://josephwilliams.website/api/habits-card?v=3" height="220" alt="Coding habits: average contributions by weekday" />
+  <img src="https://josephwilliams.website/api/stats-card?v=4" height="220" alt="Stats: contributions, days coded, best day, repos, followers, stars" />
+  <img src="https://josephwilliams.website/api/habits-card?v=4" height="220" alt="Coding habits: average contributions by weekday" />
 </div>
 
 <div align="center">
